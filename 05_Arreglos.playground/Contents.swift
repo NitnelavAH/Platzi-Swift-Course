@@ -92,3 +92,4 @@ func limpiarFrutas() {
 }
 limpiarFrutas()
 print(frutas)
+frutas.is
